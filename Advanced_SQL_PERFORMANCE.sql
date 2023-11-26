@@ -93,7 +93,7 @@ from
 
 /*create TEMP table -- in memory table
 
-use is you will be doing a lot of coding
+use if you will be doing a lot of coding
 
 To run smaller blocks of code
 
